@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e689555-13e8-4fe9-827a-5fe9b67cfeb8" name="Changes" comment="project quiz met filereader" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZXTsI0tdMvR7IiP1TA5cjb7UUP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FileReader.executor": "Run",
+    "Application.LeonsQuiz.executor": "Debug",
+    "Application.LocalFileReader.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gebruiker/IdeaProjects/ProjectQuiz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LeonsQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeonsQuiz" />
+      <module name="ProjectQuiz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeonsQuiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e689555-13e8-4fe9-827a-5fe9b67cfeb8" name="Changes" comment="" />
+      <created>1702567631587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702567631587</updated>
+      <workItem from="1702567632704" duration="44000" />
+      <workItem from="1702629600937" duration="2793000" />
+      <workItem from="1702973953209" duration="950000" />
+      <workItem from="1703163014648" duration="6704000" />
+      <workItem from="1705068512116" duration="1864000" />
+      <workItem from="1705307367321" duration="1169000" />
+      <workItem from="1705318805437" duration="646000" />
+      <workItem from="1705321155512" duration="1227000" />
+      <workItem from="1705323608314" duration="1813000" />
+      <workItem from="1705418206396" duration="245000" />
+      <workItem from="1705418954277" duration="238000" />
+      <workItem from="1705480710221" duration="1275000" />
+      <workItem from="1705484688780" duration="936000" />
+      <workItem from="1705487041608" duration="613000" />
+      <workItem from="1713278400871" duration="157000" />
+      <workItem from="1713278587688" duration="2200000" />
+      <workItem from="1713350560668" duration="49000" />
+      <workItem from="1713350617415" duration="1779000" />
+      <workItem from="1713352423845" duration="30000" />
+      <workItem from="1713352527140" duration="710000" />
+      <workItem from="1713353300079" duration="508000" />
+      <workItem from="1713353818998" duration="1013000" />
+      <workItem from="1713355402823" duration="1788000" />
+      <workItem from="1713359027866" duration="2671000" />
+      <workItem from="1713361743328" duration="3007000" />
+      <workItem from="1713366207825" duration="790000" />
+      <workItem from="1713367045040" duration="1106000" />
+      <workItem from="1713368624083" duration="574000" />
+      <workItem from="1713369320296" duration="604000" />
+      <workItem from="1713369970981" duration="593000" />
+      <workItem from="1713370614055" duration="1307000" />
+      <workItem from="1713371930488" duration="805000" />
+      <workItem from="1713372746519" duration="841000" />
+      <workItem from="1713375314959" duration="538000" />
+      <workItem from="1713375861248" duration="662000" />
+      <workItem from="1713377245004" duration="31000" />
+      <workItem from="1713377291737" duration="599000" />
+      <workItem from="1713378206656" duration="160000" />
+      <workItem from="1713378519960" duration="709000" />
+      <workItem from="1713391070932" duration="522000" />
+      <workItem from="1713391629908" duration="2690000" />
+      <workItem from="1713429609291" duration="968000" />
+    </task>
+    <task id="LOCAL-00001" summary="project quiz met filereader">
+      <option name="closed" value="true" />
+      <created>1713433064406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713433064406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project quiz met filereader" />
+    <option name="LAST_COMMIT_MESSAGE" value="project quiz met filereader" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

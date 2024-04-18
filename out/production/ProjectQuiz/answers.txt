@@ -1,0 +1,100 @@
+"Mars","Jupiter","Aarde","Saturnus"->1
+"Deja-vu","Jamais vu","Presque vu","Vuja de"->0
+"Bruin","Rood","Turkoois","Paars"->3
+"Ailurofobie","Acrofobie","Cryofobie","Arachnofobie"->2
+"Nefelofiel","Aerophile","Solarophile","Pluviophile"->3
+"16 karaat","24 karaat","18 karaat","30 karaat"->1
+"Che Guevara","Raúl Castro","Hugo Chávez","Juan Almeida"->0
+"Terracottaleger","Zijderoute-schatten","Shang-dynastie-orakelbotten","Grote Chinese Muur-vondst"->0
+"200 na Christus","500 voor Christus","776 voor Christus","100 voor Christus"->2
+"Ijzer","Goud","Kwik","Lood"->2
+"499","103","8","5"->2
+"Helium","Waterstof","Stikstof","Zuurstof"->0
+"Tokio","Peking","Shanghai","Delhi"->3
+"Zürich","Hongkong","Genève","Monaco"->0
+"Sydney Harbour Bridge","Sydney Tower","Sydney Convention and Exhibition Centre","Sydney Opera House"->3
+"Wolfgang Amadeus Mozart","Johann Sebastian Bach","Franz Schubert","Ludwig van Beethoven"->3
+"Frederic Chopin","Igor Stravinsky","Antonín Dvoák","Pyotr Ilyich Tchaikovsky"->0
+"Castagnetten","Gitaar","Accordeon","Viool"->1
+"Jean-michel Basquiat","Jackson Pollock","Andy Warhol","Keith Haring"->2
+"De gebroken zuil","De dans","Zelfportret met doornenketting en kolibrie","de surrealistische droom"->2
+"3.14271","3.14159","3.14161","3.14182"->1
+"Pierre Cuypers","Hendrik Petrus Berlage","Gerrit Rietveld","Rem Koolhaas"->0
+"Shepard Fairey","JR","Invader","Banksy"->3
+"Abercrombie & Fitch","Lacoste","Vivienne Westwood","Obey"->3
+"Een soort snoepgoed","Een oude munteenheid","Een kunstmatige heuvel","Een traditioneel dansritueel"->2
+"Michelangelo","Auguste Rodin","Leonardo da Vinci","Donatello"->1
+"A","B","AB","O"->3
+"Koude rillingen","Angstzweet","Spierkrampen","Hoofdpijn"->0
+"Incidentele creatie","Accidentele ontdekking","Willekeurige innovatie","Serendipiteit"->3
+"Algemeen Lage Dagelijkse Inkopen","Albrecht-Diskont","Allgemeiner Lebensmittel-Diskont","Aldus Inkoop"->1
+"Ganymedes","Io","Europa","Callisto"->0
+"Goud","Zilver","Koper","Kwik"->2
+"Canberra","Auckland","Sydney","Wellington"->3
+"Vier","Vijf","Zes","Zeven"->3
+"Aldous Huxley","Tom Huxley","George Orwell","J.K. Rowling"->2
+"Mars","Jupiter","Saturnus","Mercurius"->0
+"Walvis","Blauwe vinvis","Olifant","Giraffe","Nijlpaard"->1
+"Australië","Canada","Chili","Noorwegen"->1
+"60%","70%","80%","90%"->2
+"Margaret Thatcher","Angela Merkel","Jacinda Ardern","Theresa May"->0
+"Cheeta","Luipaard","Giraffe","Gnoe"->0
+"Stikstof","Koolstofdioxide","Zuurstof","Methaan"->2
+"Atlantische Oceaan","Stille Oceaan","Indische Oceaan","Noordelijke IJszee"->1
+"Vincent van Gogh","Claude Monet","Pablo Picasso","Leonardo da Vinci"->0
+"Azië","Afrika","Oceanië","Antarctica"->3
+"nul","één","twee","drie"->1
+"Roald Amundsen","Ernest Shackleton","Robert Falcon Scott","Richard E. Byrd"->0
+"Hanoi","Phnom Penh","Vientiane","Bangkok"->3
+"Galileo Galilei","Albert Einstein","Isaac Newton","Stephen Hawking"->2
+"China","Japan","Zuid-Korea","Vietnam"->1
+"Jane Austen","Charles Dickens","Charles Fickens","William Shakespeare"->3
+"Sahara","Gobi","Kalahari","Antarctica"->0
+"Aldous Huxley","Tom Huxley","George Orwell","J.K. Rowling"->2
+"Rood","Groen","Blauw","Paars"->2
+"Groot Meer","Groot Zoutmeer","Groot Oostmeer","Groot Bovenmeer"->1
+"Hardheid","Glanzende kleur","Brekingsindex","Transparantie"->0
+"Mojave Desert","Sonoran Desert","Arctic Desert","Great Basin Desert"->3
+"Plutonium","Neptunium","Uranium","Americium"->2
+"Claude Monet","Pablo Picasso","Edvard Munch","Vincent van Gogh"->3
+"Troep","School","Pod","Kudde"->2
+"Australië","Borneo","Groenland","Madagaskar"->2
+"Blauw","Rood","Groen","Geel"->0
+"Enceladus","Titan","Rhea","Mimas"->0
+"Vincent van Gogh","Pablo Picasso","Claude Monet","Edvard Munch"->0
+"Seoel","Peking","Tokio","Bangkok"->2
+"België","Zwitserland","Nederland","Ivoorkust"->3
+"Bertrand Russell","Mario Vargas Llosa","Elie Wiesel","Rabindranath Tagore"->3
+"Yuri Gagarin","Neil Armstrong","Buzz Aldrin","Yuri Ivanovich"->0
+"Engels","Spaans","Mandarijn","Hindi"->2
+"Tijger","Leeuw","Poema","Luipaard"->1
+"Zes","Zeven","Acht","Tien"->2
+"Zeven","Acht","Negen","Tien"->1
+"1961","1957","1953","1964"->0
+"Charlotte Brontë","George Eliot","Edith Wharton","Jane Austen"->3
+"Vier","Vijf","Zes","Drie"->1
+"Dunne darm","Lever","Huid","Longen"->2
+"42.195","40.139","44.115","38.250"->0
+"Tugela Falls","Yumbilla Falls","Olo'upena Falls","Angel Falls"->3
+"1785","1789","1879","1645"->1
+"Kalahari","Namibwoestijn","Sahara","Karoo"->2
+"Elf","Zeven","Negen","Vijf"->3
+"Caïro","Alexandrië","Luxor","Gizeh"->0
+"Christendom","Islam","Hindoeïsme","Boeddhisme"->1
+"Kongo-Vrijstaat","Belgisch-Congo","Kongo-Léopoldville","Zaïre"->1
+"1956","1959","1960","1963"->2
+"Diamanten","Goud","Koper","Olie"->2
+"Kinshasa","Lubumbashi","Kisangani","Goma"->0
+"Frans","Engels","Swahili","Lingala"->0
+"Olifanten","Leeuwen","Gorilla's","Nijlpaarden"->2
+"Rookmelder","Oven","Lps","Smartphones"->3
+"N2O","NO2","CO2","NH3"->0
+"Kilimanjaro","Mount Kenya","Mount Stanley","Mount Elgon"->0
+"Rusland","Verenigde Staten","China","Frankrijk"->0
+"Alexander Fleming","Louis Pasteur","Joseph Lister","Robert Koch"->0
+"Koolstof","Wolfraam","Goud","Ijzer"->1
+"Bibliofobie","Bibliomanie","Bibliofilie","Bibliografie"->2
+"46%","55%","80%","21%"->3
+"De Eiffeltoren","Het Colosseum","De Taj Mahal","Het Vrijheidsbeeld"->2
+"Bouillabaisse","Ratatouille","Vichyssoise","Cassoulet"->0
+"Groenlandse walvis","Galapagosalbatros","Groenlandse haai","Kokerworm"->2
